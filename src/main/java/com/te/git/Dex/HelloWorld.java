@@ -7,7 +7,7 @@ public class HelloWorld {
 		num1=1;
 		num2=2;
 		sum = num1+num2;
-		System.out.println("Sum of two numbers:- "+sum);
+		System.out.println("Sum of two numbers:-> "+sum);
 	}
 
 }
