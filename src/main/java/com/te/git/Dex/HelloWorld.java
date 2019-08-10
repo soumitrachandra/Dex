@@ -9,5 +9,4 @@ public class HelloWorld {
 		sum = num1+num2;
 		System.out.println("Sum of two numbers >> "+sum);
 	}
-
 }
